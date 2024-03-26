@@ -7,7 +7,6 @@ import Telephone from "./pages/Telephone";
 
 function App() {
  
-
   return (
     <div className="App">
       
